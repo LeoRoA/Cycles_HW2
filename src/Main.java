@@ -3,7 +3,7 @@ public class Main {
         //Задание 1
         System.out.println("Задание 1");
         for (int i=1904; i<=2096; i = i + 4){
-            System.out.println("Високосный год: "+i);
+            System.out.println(i + " год явялется високосным");
         }
 
         //Задание 2
